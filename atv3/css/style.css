@@ -1,0 +1,39 @@
+table, th, td{
+    border: 1px solid black;
+}
+
+.first{
+    background-color: green;
+}
+
+.elem{
+    background-color: lightgreen;
+}
+
+.second{
+    background-color: lightslategray;
+}
+
+.elem2{
+    background-color: grey;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.t1{
+    padding: 2rem;
+}
