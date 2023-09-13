@@ -1,0 +1,23 @@
+body{
+    background-image: url("../imgs/cachorro.webp");
+    background-repeat: no-repeat;
+    min-height: 50rem;
+    background-position: right bottom;
+    background-size: 12rem;
+    background-color: coral;
+}
+
+.sec1{
+    background-color: lightcoral;
+}
+
+.sec2{
+    background-image: url("../imgs/cachorro.webp");
+    background-repeat: round;
+    background-size: 5rem;
+    background-color: aqua;
+}
+
+.sec3{
+    background-color: aquamarine;
+}

@@ -1,0 +1,52 @@
+table, th, td{
+    border: 1px solid black;
+}
+
+.red{
+    background-color: red;
+}
+
+.r1{
+    background-color: #920000;
+}
+
+.r2{
+    background-color: #6d0000;
+}
+
+.green{
+    background-color: green;
+}
+
+.g1{
+    background-color: #005000;
+}
+
+.g2{
+    background-color: #002b00;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.b1{
+    background-color: #000080;
+}
+
+.b2{
+    background-color: #000044;
+}
+
+body{
+    background-image: url("../imgs/ifsp.png");
+    background-size: 10rem;
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+
+.foot{
+    background-image: url("../imgs/ifsp.png");
+    background-size: contain;
+    height: 5rem;
+}
